@@ -1,0 +1,5 @@
+Add Enemies In The Form ["name", hp, attack, toughness] and make sure to include quotes, toughness must be at least 1
+["Orc", 10, 2, 1]
+["Goblin", 6, 1, 1]
+["Trollock", 10, 2, 2]
+["Mydrraal", 15, 4, 2]

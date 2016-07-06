@@ -1,0 +1,11 @@
+Liam
+10
+8
+4
+[['other', 'Note', 'A note with some writing on it'], ['armour', 'Loincloth', 4, 'A soiled rag'], ['potion', 'Potion', 'A potion imbuded with healing magic'], ['weapon', 'Heron-Marked Blade', 8, 'A sweod with the legendary heron mark of a blademaster']]
+0
+0
+140
+2
+10
+10

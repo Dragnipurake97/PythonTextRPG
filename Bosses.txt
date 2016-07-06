@@ -1,0 +1,6 @@
+Add Bosses in Format ["city", "name", hp, attack, toughness", ["other", "Boss Item Name", "Description"]] - quotes are essential - MUST HAVE A BOSS FOR EACH CITY
+["Tear", "Be'lal", 10, 4, 1, ["other", "Seal #1", "The first part of the seal"]]
+["Illian", "Sammel", 20, 4 , 2,["other", "Seal #2", "The second part of the seal"]]
+["Camelyn","Rahvin", 15, 6, 1, ["other", "Seal #3", "The third part of the seal"]]
+["Tar Valon", "Mesaana", 10, 6, 1, ["other", "Seal #4", "The fourth part of the seal"]]
+["Cairhien", "Couladin", 12, 10, 2, ["other", "Seal #5", "The final part of the seal"]]

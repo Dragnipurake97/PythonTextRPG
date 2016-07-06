@@ -1,0 +1,6 @@
+Add Cities In The Form ["name", x - coord, y - coord] and make sure to include quotes - MUST HAVE A BOSS FOR EACH CITY
+["Tear", 10, 10]
+["Illian", 35, 20]
+["Camelyn", 40, 40]
+["Tar Valon", 50, 35]
+["Cairhien", 60, 70]
